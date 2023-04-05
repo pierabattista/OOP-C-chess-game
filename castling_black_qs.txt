@@ -1,0 +1,24 @@
+\\if you wish to use this pre-made moves just 
+\\copy and paste them in the terminal in standard mode
+\\the final enter to insert is yours :)
+
+b2
+b3
+b8
+c6
+a2
+a3
+d7
+d5
+a3
+a4
+c8
+f5
+h2
+h3
+d8
+d6
+d2
+d3
+e8
+c8

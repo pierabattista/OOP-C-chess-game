@@ -1,0 +1,20 @@
+\\if you wish to use this pre-made moves just 
+\\copy and paste them in the terminal in standard mode
+\\the final enter to insert for the win will be yours :)
+
+e2
+e4
+e7
+e6
+h2
+h3
+d8
+f6
+h3
+h4
+f8
+c5
+a2
+a3
+f6
+f2
